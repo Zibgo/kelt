@@ -1,5 +1,6 @@
 import sys, string
 from io import StringIO
+from preprocessor import Preprocessor
 
 class Lexer:
 
@@ -48,6 +49,9 @@ class Lexer:
             self.stream = open(sys.argv[1])
         else:
             self.stream = StringIO(text)
+
+        preprocessor = Preprocessor(self.stream)
+        self.stream = preprocessor.read()
 
         self.line = 1
         self.cursor = 1

@@ -22,7 +22,7 @@ ret a + b;
 
 fn main[]
 {
-x = 15;
+x = 15; #pwqrwe huj
 global y = 10;
 
 z = add[x, y];
