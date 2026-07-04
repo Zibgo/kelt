@@ -33,7 +33,7 @@ fn main[]{
 
 ## License
 MIT  
-P.S because why not  
+P.S because why not<br>
 P.P.S because I said so  
 P.P.P.S because I don't think serious commercial developers will use it  
 P.P.P.P.S because **KELT** isn't for him  
