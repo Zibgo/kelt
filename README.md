@@ -1,5 +1,5 @@
 # kelt
-My *useless* interpreter of my *useless* language kelt wih my *useless* virtual machine
+My *useless* interpreter of my *useless* language kelt with my *useless* virtual machine
 
 ## What is it?
 
