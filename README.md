@@ -24,7 +24,7 @@ This language isn't for you
 ### If you have spent your whole life looking for a language that's ***ONLY PURPOSE IS TO DO NOTHING***?
 **YEAH! THIS LANGUAGE IS FOR YOU BECAUSE** ***ITS ONLY PURPOSE IS TO DO NOTHING***
 
-## Example (If you want an answer to The Answer to the Ultimate Question of Life, the Universe, and Everything)
+## Example (If you want an answer the Ultimate Question of Life, the Universe, and Everything)
 ```
 fn main[]{
   print[42]
