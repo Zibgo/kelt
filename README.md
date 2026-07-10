@@ -1,4 +1,4 @@
-# kelt
+# kelt v1.2
 My *useless* interpreter of my *useless* language kelt with my *useless* virtual machine
 
 ## What is it?
@@ -31,6 +31,15 @@ fn main[]{
   print[42]
 }
 ```
+
+## Future plans (if I ever get to it)
+ | Version | Changes                  | Status     |
+ | :---:   | :---                     | :---       |
+ | v2      | basic types              | Planned    |
+ | v3      | real heap, maybe GC      | Planned    |
+ | v4      | VM rewriting in C        | Planned    |
+ | v5      | stdlib rewriting         | Planned    |
+ | v6      | world domination (maybe) | Who knows? |
 
 ## License
 MIT  
