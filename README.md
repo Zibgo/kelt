@@ -26,6 +26,7 @@ This language isn't for you
 
 ## Example (If you want an answer the Ultimate Question of Life, the Universe, and Everything)
 ```
+use io;
 fn main[]{
   print[42]
 }
