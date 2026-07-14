@@ -44,7 +44,7 @@ fn main[]{
  | v6      | world domination (maybe) | Who knows? |
 
 ## Important announcement
-Versions v2, v3 and v4 canceled because Guido Van Rossum.
+Versions v2, v3 and v4 canceled because Guido van Rossum.
 I wanted to add a heap, but his language is too *heapless*.
 I tried to add heap in Python, but all I managed to do was add three *pseudo-heaps* and remove some KVM features.
 So i decided to write KVM with heap in C.
