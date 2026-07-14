@@ -28,7 +28,7 @@ This language isn't for you
 ```
 use io;
 fn main[]{
-  print[42]
+  print[42];
 }
 ```
 
