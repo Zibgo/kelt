@@ -35,11 +35,21 @@ fn main[]{
 ## Future plans (if I ever get to it)
  | Version | Changes                  | Status     |
  | :---:   | :---                     | :---       |
- | v2      | basic types              | Planned    |
- | v3      | real heap, maybe GC      | Planned    |
- | v4      | VM rewriting in C        | Planned    |
+ | v2      | basic types              | Canceled   |
+ | v2ng    | real heap, types, VM in C| In Dev     |
+ | v3ng    | pointers, arrays, GC     | Planned    |
+ | v3      | real heap, maybe GC      | Canceled   |
+ | v4      | VM rewriting in C        | Canceled   |
  | v5      | stdlib rewriting         | Planned    |
  | v6      | world domination (maybe) | Who knows? |
+
+## Important announcement
+Versions v2, v3 and v4 canceled because Guido Van Rossum.
+I wanted to add a heap, but his language is too *heapless*.
+I tried to add heap in Python, but all I managed to do was add three *pseudo-heaps* and remove some KVM features.
+So i decided to write KVM with heap in C.
+I am counting to you, Dennis Ritchie.
+**RIP v2-v4. We miss you.**
 
 ## License
 MIT  
